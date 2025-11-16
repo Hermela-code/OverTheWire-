@@ -15,7 +15,9 @@ Because the file name is just a single hyphen, running a normal command like:
 cat -
 ```
 does not work.
+
 ![level120](images/level120.png)
+
 This is because **`-`** is normally interpreted by Linux as stdin, not as a filename.
 
 To access a file with a special or confusing name, we need to specify the relative path explicitly.
