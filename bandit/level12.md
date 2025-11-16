@@ -31,8 +31,8 @@ This displays the file’s content, which contains the password for Level 2.
 ![level121](images/level121.png)
 
 <details>
-<summary>Click here to see the password<summary/>
+<summary>Click here to see the password</summary>
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-<detail/>
+</detail>
 
 
