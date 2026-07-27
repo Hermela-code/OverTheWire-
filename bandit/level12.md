@@ -3,6 +3,8 @@
 After entering the password from the previous level, we now have access to **Bandit Level 1**.  
 Our goal in this level is to find the password that allows us to move to **Level 2**.
 
+![level12hint](images/level12hint.png)
+
 The hint tells us that the password is stored in a file named **`-`** located in the home directory.
 
 To verify this, I first listed the files in the directory:
