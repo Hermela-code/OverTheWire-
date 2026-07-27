@@ -20,3 +20,8 @@ cat readme
 This prints the content of the file, and that’s how we find the password for Level 1.
 
 ![ls](images/level011.png)
+
+<details>
+<summary>Click here to see the password</summary>
+6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+</detail>
