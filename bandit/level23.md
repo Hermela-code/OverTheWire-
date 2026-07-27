@@ -34,5 +34,5 @@ This command displays the contents of the file, revealing the password for Level
 
 <details>
 <summary> Click here to see the password </summary>
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
 </details>
